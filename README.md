@@ -4,7 +4,7 @@ Your privacy is a great concern to us. Read below to see what information is col
 
 ## Meaning of Calculator Features
 
-"Calculator Features" means all features where you use to do mathematics operations (Including all number, sign, and math operation buttons).
+"Calculator Features" means all features which you use to do mathematics operations (Including all number, sign, and math operation buttons).
 
 ## Collection of Personal Information
 
